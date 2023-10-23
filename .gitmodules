@@ -1,0 +1,3 @@
+[submodule "labeler"]
+	path = labeler
+	url = git@github.com:actions/labeler.git
